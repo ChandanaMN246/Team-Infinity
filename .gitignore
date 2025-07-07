@@ -1,0 +1,58 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Node.js
+node_modules/
+*.log
+dist/
+build/
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Android/Gradle
+*.apk
+*.ap_ 
+*.aab
+*.dex
+*.class
+*.jar
+*.keystore
+*.iml
+.gradle/
+local.properties
+build/
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Output
+coverage/
+
+# Others
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar 
